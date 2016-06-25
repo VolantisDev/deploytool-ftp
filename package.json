@@ -25,7 +25,9 @@
   "keywords": [],
   "dependencies": {
     "async": "^2.0.0-rc.6",
-    "deploytool": "^0.1.0"
+    "deploytool": "^0.1.0",
+    "deploytool-git-diff": "^0.1.0",
+    "ftp": "latest"
   },
   "devDependencies": {
     "mocha": "^2.5.3"
