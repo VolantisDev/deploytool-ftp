@@ -1,4 +1,4 @@
-deploytool-git-push
+deploytool-ftp
 ==========
 
 A deploytool deployment type for uploading modified files via FTP
