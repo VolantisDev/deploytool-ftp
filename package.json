@@ -1,6 +1,6 @@
 {
   "name": "deploytool-ftp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A deploytool deployment type for uploading modified files via FTP",
   "license": "MIT",
   "repository": {
@@ -25,8 +25,8 @@
   "keywords": [],
   "dependencies": {
     "async": "^2.0.0-rc.6",
-    "deploytool": "^0.1.1",
-    "deploytool-git-diff": "^0.1.1",
+    "deploytool": "^0.2.0",
+    "deploytool-git-diff": "^0.1.2",
     "ftp": "^0.3.10"
   },
   "devDependencies": {
