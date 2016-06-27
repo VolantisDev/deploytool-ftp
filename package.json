@@ -1,6 +1,6 @@
 {
   "name": "deploytool-ftp",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A deploytool deployment type for uploading modified files via FTP",
   "license": "MIT",
   "repository": {
